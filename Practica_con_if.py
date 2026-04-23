@@ -64,3 +64,17 @@ Si trabajó más de 40 horas, las horas extra se pagan al doble.
 Si no, se paga normal.
 Muestra el salario total.
 """
+""" 
+Cálculo de impuesto según salario
+Pide el salario mensual de una persona.
+Si gana más de 20,000 paga 15% de impuesto.
+Si gana entre 10,000 y 20,000 paga 10%.
+Si gana menos de 10,000 paga 5%.
+Muestra cuánto pagará y su salario final.
+"""
+"""
+Acceso a sistema con usuario y contraseña
+Pide un usuario y una contraseña.
+Si el usuario es "admin" y la contraseña es "1234", mostrar Acceso permitido.
+Si no, mostrar Acceso denegado.
+"""
